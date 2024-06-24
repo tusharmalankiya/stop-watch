@@ -12,5 +12,5 @@ A simple and interactive stopwatch application built using HTML, CSS, and JavaSc
 - **Reset**: Click the reset button to reset the stopwatch to 0.
 
 ## Demo
-- You can see a live demo of the stopwatch [here]().
+- You can see a live demo of the stopwatch [here](https://tusharmalankiya.github.io/stop-watch/).
 
