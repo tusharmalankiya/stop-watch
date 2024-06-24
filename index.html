@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>STOPWATCH</title>
+    <!-- google fonts ----------------------------------------->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap" rel="stylesheet">
+    <!-- -------------------------------------------------------- -->
+</head>
+<link rel="stylesheet" href="styles.css">
+
+<body>
+    <div class="container">
+        <div><h1>StopWatch</h1></div>
+        <div id="watch">
+            <div id="watchImage"><img src="assets/blankwatch.png"> </div>
+
+            <div style="position:absolute; width:30%; height: 30%; top:33%; left:19%;">
+                <div id="minuteWatch"><img src="assets/blankwatch.png"></div>
+                <div id="minute"></div>
+            </div>
+
+            <div style="position:absolute; width:20%; height: 20%; top:40%; right:25%;">
+                <div id="milisecondWatch">
+                    <!-- <img src="blankwatch.png" alt="millisec"> -->
+                </div>
+                <div id="milisecond"></div>
+            </div>
+
+            <div id="second"></div>
+        </div>
+        <div id="countup">00:00:00</div>
+        <div id="btns">
+            <div id="playButton">
+                <img src="assets/play.png">
+            </div>
+            <div id="pauseButton">
+                <img src="assets/pause.png">
+            </div>
+            <div id="resetButton">
+                <img src="assets/reset.png">
+            </div>
+        </div>
+    </div>
+
+    <script src="scripts.js"></script>
+</body>
+
+</html>
