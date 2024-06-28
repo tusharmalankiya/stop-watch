@@ -1,6 +1,6 @@
 # STOPWATCH
 
-A simple and interactive stopwatch application built using HTML, CSS, and JavaScript.
+An intuitive and interactive stopwatch application developed using HTML, CSS, and JavaScript.
 
 ## Demo
 - You can see a live demo of the stopwatch at [here](https://tusharmalankiya.github.io/stop-watch/).
