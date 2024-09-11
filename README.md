@@ -3,7 +3,7 @@
 An intuitive and interactive stopwatch application developed using HTML, CSS, and JavaScript.
 
 ## Demo
-- You can see a live demo of the stopwatch at <a href="https://tusharmalankiya.github.io/stop-watch/" target="_blank">Here</a>.
+- You can see a live demo of the stopwatch at [Here](https://tusharmalankiya.github.io/stop-watch/).
 
 ## Features
 - Start, stop, and reset functionality
